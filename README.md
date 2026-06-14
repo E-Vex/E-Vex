@@ -30,14 +30,14 @@ I don't just write code; I engineer solutions. I believe in planning before typi
 *“Master the fundamentals, and the framework will follow.”*
 
 
-       ___________
-      / =======  /|
-     / =======  / |
-    /__________/  |
+         ___________               ╔════════════════════════════╗
+      / =======  /|                ║     Crafted by Elijah      ║
+     / =======  / |                ║  Code • Learn • Create     ║
+    /__________/  |                ╚════════════════════════════╝
     |  __  __ |  |
     | |  ||  ||  |
     | |__||__||  |
     |  github   | /
     |___________|/
 
-    > Building the future...
+       > Building the future...                                                                                                                               
