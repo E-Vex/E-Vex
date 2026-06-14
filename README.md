@@ -1,4 +1,4 @@
-# Hi there, I'm Elia 👋
+# Hi there, I'm Elijah Azzam (Elia Osmat Azzam) 👋
 
 ### Aspiring Systems Programmer | Building Things from the Ground Up
 
