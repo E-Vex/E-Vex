@@ -10,5 +10,4 @@ Got into cybersecurity after discovering the Cicada 3301 puzzles — now learnin
 - [vex-packet-analyzer](https://github.com/E-Vex/vex-packet-analyzer) — Vexor, packet analysis in C
 
 [Instagram](https://www.instagram.com/elia.azzam/) · [YouTube](https://www.youtube.com/channel/UC6nKYFkl6Wy1xouk1Gv1pFA)
-
-                                                                                                                                        3301
+                                                                                                                                          3301
