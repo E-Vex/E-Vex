@@ -1,6 +1,7 @@
 # Elia Azzam (E-Vex)
 
-Got into cybersecurity after discovering the Cicada 3301 puzzles — now learning systems programming, math, and security fundamentals. Currently focused on C, memory management, and Linux. 
+Got into cybersecurity after discovering the Cicada 3301 puzzles
+now learning systems programming, math, and security fundamentals. Currently focused on C, memory management, and Linux. 
 
 **Stack:** C · Bash · Linux
 
