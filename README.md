@@ -1,14 +1,23 @@
-# Elia Azzam (E-Vex)
+Eliea Azzam (E-Vex)
+================
 
-Got into cybersecurity after discovering the Cicada 3301 puzzles
-now learning systems programming, math, and security fundamentals. Currently focused on C, memory management, and Linux. 
+First-year Computer Science student at CNAM Lebanon, interested in systems programming, Linux, networking, and cybersecurity.
 
-**Stack:** C · Bash · Linux
+Currently learning C, Linux, computer systems, networking, mathematics, and security fundamentals while building projects along the way.
 
-## Projects
-- [vex-learning-archive](https://github.com/E-Vex/vex-learning-archive) : C projects, algorithms, and notes
-- [vex-Daily-Math-Log](https://github.com/E-Vex/vex-Daily-Math-Log) : daily math practice log
-- [vex-packet-analyzer](https://github.com/E-Vex/vex-packet-analyzer) : Vexor, packet analysis in C
+**Stack:** C · Bash · Linux · Git
+
+Projects
+=======
+
+* [vted](https://github.com/E-Vex/vted) -> Terminal-based text editor written in C
+* [vex-packet-analyzer](https://github.com/E-Vex/vex-packet-analyzer) -> Packet analyzer written in C
+* [vex-learning-archive](https://github.com/E-Vex/vex-learning-archive) -> My learning archive: C, algorithms, systems programming, and notes
+* [vex-Daily-Math-Log](https://github.com/E-Vex/vex-Daily-Math-Log) -> Daily mathematics practice and problem solving
+
+Interests
+======= 
+Systems Programming · Linux · Networking · Cybersecurity · Computer Science · Mathematics
 
 [Instagram](https://www.instagram.com/elia.azzam/) · [YouTube](https://www.youtube.com/channel/UC6nKYFkl6Wy1xouk1Gv1pFA)
-                                                                                                                                          3301
+
