@@ -11,7 +11,7 @@ Projects
 =======
 
 * [vted](https://github.com/E-Vex/vted) -> Terminal-based text editor written in C
-* [vex-packet-analyzer](https://github.com/E-Vex/vex-packet-analyzer) -> Packet analyzer written in C
+* [vetrix](https://github.com/E-Vex/vetrix) -> Packet analyzer written in C
 * [vex-learning-archive](https://github.com/E-Vex/vex-learning-archive) -> My learning archive: C, algorithms, systems programming, and notes
 * [vex-Daily-Math-Log](https://github.com/E-Vex/vex-Daily-Math-Log) -> Daily mathematics practice and problem solving
 
