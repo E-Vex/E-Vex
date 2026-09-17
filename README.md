@@ -1,23 +1,15 @@
 Eliea Azzam (E-Vex)
-================
+first-year CS @ CNAM Lebanon
+into low-level stuff: systems programming, Linux, networking, cybersecurity
 
-First-year Computer Science student at CNAM Lebanon, interested in systems programming, Linux, networking, and cybersecurity.
+learning C, Linux, computer systems, networking, math and security fundamentals. just building stuff as I learn.
 
-Currently learning C, Linux, computer systems, networking, mathematics, and security fundamentals while building projects along the way.
-
-**Stack:** C · Bash · Linux · Git
+Stack: C / Bash / Linux / Git
 
 Projects
-=======
+* [vetrix](https://github.com/E-Vex/vetrix) -> packet analyzer in C
+* [vted](https://github.com/E-Vex/vted) -> terminal text editor in C
+* [vex-learning-archive](https://github.com/E-Vex/vex-learning-archive) -> my notes on C, algos, systems
+* [vex-Daily-Math-Log](https://github.com/E-Vex/vex-Daily-Math-Log) -> daily math log
 
-* [vetrix](https://github.com/E-Vex/vetrix) -> Packet analyzer written in C
-* [vted](https://github.com/E-Vex/vted) -> Terminal-based text editor written in C
-* [vex-learning-archive](https://github.com/E-Vex/vex-learning-archive) -> My learning archive: C, algorithms, systems programming, and notes
-* [vex-Daily-Math-Log](https://github.com/E-Vex/vex-Daily-Math-Log) -> Daily mathematics practice and problem solving
-
-Interests
-======= 
-Systems Programming · Linux · Networking · Cybersecurity · Computer Science · Mathematics
-
-[Instagram](https://www.instagram.com/elia.azzam/) · [YouTube](https://www.youtube.com/channel/UC6nKYFkl6Wy1xouk1Gv1pFA)
-
+[Instagram](https://www.instagram.com/elia.azzam/) / [YouTube](https://www.youtube.com/channel/UC6nKYFkl6Wy1xouk1Gv1pFA)
