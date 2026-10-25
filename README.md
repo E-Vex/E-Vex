@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="hexdump -C about.txt: Eliea Azzam, aka E-Vex. Systems in C, Linux, networking, security." width="100%">
+  <img src="banner.svg" alt="hexdump -C about.txt: Eliea Azzam, aka E-Vex. Systems in C, Linux, networking, security." width="100%">
 </p>
 
 I'm a first-year computer science student at CNAM Lebanon. I write systems software in C and learn how computers work by rebuilding the tools I rely on: a packet analyzer, a text editor, and whatever comes next. My focus is moving toward cybersecurity, with AI further out.
