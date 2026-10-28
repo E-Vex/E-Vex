@@ -34,7 +34,7 @@ A deterministic real-time strategy foundation written from scratch in Rust, with
 | Repository | Contents |
 |---|---|
 | [vex-learning-archive](https://github.com/E-Vex/vex-learning-archive) | Notes on C, algorithms and systems |
-| [vex-Daily-Math-Log](https://github.com/E-Vex/vex-Daily-Math-Log) | A daily log of math practice |
+
 
 ## Toolchain
 
